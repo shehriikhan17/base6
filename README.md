@@ -1,1 +1,1 @@
-# base6
+# base6 road to mainnet
